@@ -29,7 +29,7 @@ Ce projet est une implémentation du jeu de stratégie **Onitama** réalisée da
 └── report/ 
     ├── rapport_onitama.pdf       # Rapport final
     └── rapport_onitama.tex  
-        └── Image/                 # Graphiques générés pour le rapport
+        └── image/                 # Graphiques générés pour le rapport
             ├── evolution_victoires.png
             ├── matrice_resultats.png
             ├── temps_calcul.png
