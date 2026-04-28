@@ -8,7 +8,7 @@
 [![Université Paris Cité](https://img.shields.io/badge/Université-Paris%20Cité-red)](https://u-paris.fr/)
 
 Ce projet est une implémentation du jeu de stratégie **Onitama** réalisée dans le cadre de l'UE Intelligence Artificielle à l'Université Paris Cité. Il propose un moteur de jeu complet et une IA basée sur l'algorithme **Minimax** optimisé par l'**élagage alpha-bêta**.
-
+ 
 ---
 
 ## Auteurs
