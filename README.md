@@ -1,5 +1,12 @@
 # Onitama - Intelligence Artificielle
 
+![Python 3](https://img.shields.io/badge/Python-3-3776AB.svg?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
+![Tests](https://img.shields.io/badge/Tests-Passants-brightgreen.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Université Paris Cité](https://img.shields.io/badge/Université-Paris%20Cité-red)](https://u-paris.fr/)
+
 Ce projet est une implémentation du jeu de stratégie **Onitama** réalisée dans le cadre de l'UE Intelligence Artificielle à l'Université Paris Cité. Il propose un moteur de jeu complet et une IA basée sur l'algorithme **Minimax** optimisé par l'**élagage alpha-bêta**.
 
 ---
@@ -20,8 +27,8 @@ Ce projet est une implémentation du jeu de stratégie **Onitama** réalisée da
 ├── generer_graphiques.py          # Script de benchmark et de génération de données
 ├── test_onitama.py                # Suite de tests unitaires
 └── report/ 
-    ├── TAKENNE_ZEROUALI.pdf       # Rapport final
-    └── TAKENNE_ZEROUALI.tex  
+    ├── rapport_onitama.pdf       # Rapport final
+    └── rapport_onitama.tex  
         └── Image/                 # Graphiques générés pour le rapport
             ├── evolution_victoires.png
             ├── matrice_resultats.png
